@@ -1,2 +1,2 @@
 # portfolio
-Repository for the portfolio of Monish Gupta
+Repository for the portfolio of Maniesh Gupta
